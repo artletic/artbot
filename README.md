@@ -1,0 +1,2 @@
+# artbot
+A Hubot app
